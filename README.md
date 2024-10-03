@@ -13,7 +13,7 @@ This application and exercises will take you through some of the OWASP top 10 Vu
 
 ## Exercises
 
-* [SQL Injection](exercises/01-sql-injection.md)
-* [XSS - Cross Site Scripting](exercises/02-xss.md)
-* [SSRF - Server Side Request Forgery](exercises/03-ssrf.md)
-* [RCE - Remote Code Execution & Reverse Shell](exercises/04-rce-reverse-shell.md)
+1. DevOps Pipelines - Build & Test with Maven
+2. DevSecOps - Integrating SCA, SAST, DAST, Container Scans & IaC Scans
+
+
