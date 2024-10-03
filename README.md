@@ -1,6 +1,6 @@
-# Vulnado - Intentionally Vulnerable Java Application
+# Vulnado - Intentionally Vulnerable Java Application - DevSecOps Labs
 
-This application and exercises will take you through some of the OWASP top 10 Vulnerabilities and how to prevent them.
+This application and exercises will take you through some of the OWASP top 10 Vulnerabilities and practice DevSecOps Hands-ON.
 
 ## Up and running
 
